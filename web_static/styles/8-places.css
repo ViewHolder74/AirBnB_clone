@@ -31,7 +31,8 @@ article h2 {
 	line-height: 60px;
 	font-size: 30px;
 	position: relative;
-	float: right; 
+	float: right;
+        top: -80px	
 }
 
 .information {
